@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ali-Hassan-63
+- 👋 Hi, I’m Ali Hassan
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on back end systems projects
