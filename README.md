@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on back end systems projects
 - 📫 How to reach me ah7433345@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Attention s the new currency
+- ⚡ Attention is the new currency
 
 <!---
 Ali-Hassan-63/Ali-Hassan-63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
